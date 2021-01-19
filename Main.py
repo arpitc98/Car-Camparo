@@ -5,7 +5,7 @@ import PIL
 from PIL import Image
 import tkFont
 a=Tkinter.Tk()
-a.title("AUTOMOTO")
+a.title("CAR COMPARE")
 tkMessageBox.showinfo("Welcome","Welcome to AUTOMOTO \n Compare cars \nEnjoy ;-)")
 """========================================================================================="""
 img_cmp1=PhotoImage(file="cmp1.gif")#main page image 1
